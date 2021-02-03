@@ -1,0 +1,25 @@
+body{
+    background: #eeeeee;
+}
+p{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    
+    text-align: center;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    border-bottom: 5px solid #cccccc;
+    padding: 10px;
+    width: 47.5%;
+    margin: auto;
+    font-size: 2vw;
+}
+img{
+   width: 20.5%;
+   margin: 1.25%;
+   float: left;
+
+}
+#water, #tree{
+    margin-top: -309px;
+}
